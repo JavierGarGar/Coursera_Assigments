@@ -1,2 +1,2 @@
 # Coursera IBM Data Science Professional Certificate Course
-New repository test
+Assigments for Coursera course "IBM Data Science Professional Certificate".
